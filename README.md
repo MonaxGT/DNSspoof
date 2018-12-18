@@ -1,6 +1,8 @@
 DNS-spoofing detect tools
 =======================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1cb2612763b1443c832bc2e61e6b198d)](https://app.codacy.com/app/MonaxGT/DNSspoof?utm_source=github.com&utm_medium=referral&utm_content=MonaxGT/DNSspoof&utm_campaign=Badge_Grade_Dashboard)
+
 Run:
 ```
 go run dnsspoof.go -f top-1000.txt -dsp 8.8.4.4 -dst 8.8.8.8 -d
